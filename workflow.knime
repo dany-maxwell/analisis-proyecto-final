@@ -7,30 +7,13 @@
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="Maxwell"/>
         <entry key="authored-when" type="xstring" value="2026-01-15 21:32:19 -0500"/>
-        <entry key="lastEdited-by" type="xstring" value="User"/>
-        <entry key="lastEdited-when" type="xstring" value="2026-01-15 21:49:30 -0500"/>
+        <entry key="lastEdited-by" type="xstring" value="Maxwell"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-01-16 22:21:36 -0500"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <config key="workflow_credentials"/>
-    <config key="nodes">
-        <config key="node_1">
-            <entry key="id" type="xint" value="1"/>
-            <entry key="node_settings_file" type="xstring" value="Excel Reader (#1)/settings.xml"/>
-            <entry key="node_is_meta" type="xboolean" value="false"/>
-            <entry key="node_type" type="xstring" value="NativeNode"/>
-            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
-            <config key="ui_settings">
-                <config key="extrainfo.node.bounds">
-                    <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="150"/>
-                    <entry key="1" type="xint" value="134"/>
-                    <entry key="2" type="xint" value="-1"/>
-                    <entry key="3" type="xint" value="-1"/>
-                </config>
-            </config>
-        </config>
-    </config>
+    <config key="nodes"/>
     <config key="connections"/>
     <config key="workflow_editor_settings">
         <entry key="workflow.editor.snapToGrid" type="xboolean" value="false"/>
