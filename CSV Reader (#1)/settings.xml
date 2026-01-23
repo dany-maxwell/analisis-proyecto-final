@@ -26,7 +26,7 @@
                 <config key="path">
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="C:\Users\Maxwell\knime-workspace\Proyecto-Análisis\Data-Sets\internet-muerto1.csv"/>
+                    <entry key="path" type="xstring" value="C:\Users\User\knime-workspace\Analisis de Datos Toaquiza\analisis-proyecto-final\analisis-proyecto-final\Data-Sets\internet-muerto1.csv"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -70,7 +70,7 @@
         <config key="table_spec_config_Internals">
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
-                <config key="C:\Users\Maxwell\knime-workspace\Proyecto-Análisis\Data-Sets\internet-muerto1.csv">
+                <config key="C:\Users\User\knime-workspace\Analisis de Datos Toaquiza\analisis-proyecto-final\analisis-proyecto-final\Data-Sets\internet-muerto1.csv">
                     <entry key="num_columns" type="xint" value="11"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="comment_id"/>
@@ -333,9 +333,9 @@
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="7"/>
                         <config key="production_path">
-                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.BooleanCell$BooleanCellFactory.createCell(class java.lang.String)"/>
                             <entry key="_converter_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_converter_dst" type="xstring" value="String"/>
+                            <entry key="_converter_dst" type="xstring" value="Boolean"/>
                             <entry key="_converter_name" type="xstring" value="String"/>
                             <config key="_converter_config"/>
                             <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
@@ -357,9 +357,9 @@
                         <entry key="keep" type="xboolean" value="true"/>
                         <entry key="position" type="xint" value="8"/>
                         <config key="production_path">
-                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+                            <entry key="_converter" type="xstring" value="org.knime.core.data.def.BooleanCell$BooleanCellFactory.createCell(class java.lang.String)"/>
                             <entry key="_converter_src" type="xstring" value="java.lang.String"/>
-                            <entry key="_converter_dst" type="xstring" value="String"/>
+                            <entry key="_converter_dst" type="xstring" value="Boolean"/>
                             <entry key="_converter_name" type="xstring" value="String"/>
                             <config key="_converter_config"/>
                             <entry key="_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
@@ -442,7 +442,7 @@
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="C:\Users\Maxwell\knime-workspace\Proyecto-Análisis\Data-Sets\internet-muerto1.csv"/>
+            <entry key="source_group_id" type="xstring" value="C:\Users\User\knime-workspace\Analisis de Datos Toaquiza\analisis-proyecto-final\analisis-proyecto-final\Data-Sets\internet-muerto1.csv"/>
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
@@ -537,6 +537,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="cc16606d-9080-479c-8c83-c5a9457c9a42"/>
+        <entry key="file_store_id" type="xstring" value="4af5d785-f356-48df-9d34-7fb46d9cadea"/>
     </config>
 </config>
