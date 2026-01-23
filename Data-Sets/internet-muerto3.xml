@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<DataSet>>
+<internet-muerto>
     <root>
         <subreddit>technology</subreddit>
         <account_age_days>20</account_age_days>
@@ -1200,4 +1200,4 @@
         <bot_type_label>Engagement Farmer</bot_type_label>
         <bot_probability>0.262</bot_probability>
     </root>
-</<DataSet>>
+</internet-muerto>
