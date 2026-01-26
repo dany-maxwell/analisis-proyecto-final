@@ -4,11 +4,11 @@
 - Daniel Orozco
 - Gabriel Toaquiza
 ## Contexto ##
-El internet actual ya no es lo que solia ser, actualmente los bots son un problema real que puede afectar servidores, empresas y redes sociales.
+El internet actual ya no es lo que solia ser, actualmente los bots son un problema real en redes sociales, servidores, empresas o trafico de busquedas.
 
-Pero que tan extendido esta en la actualidad?
+Pero como podemos identificarlos?
 
-El siguiente trabajo pretende analizar los bots en la red social Reddit, para asi, determinar su naturaleza y cuales podrian ser las consecuencias.
+El siguiente estudio pretende analizar los bots en la red social Reddit, para asi, determinar su naturaleza y cuales podrian ser las consecuencias.
 
 ### Fuente https://www.kaggle.com/datasets/nudratabbas/the-dead-internet-theory-reddit-bot-vs-human
 
