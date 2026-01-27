@@ -11,7 +11,7 @@
         <entry key="width" type="xint" value="800"/>
         <entry key="height" type="xint" value="600"/>
         <entry key="categoryColumnV3" type="xstring" value="subreddit"/>
-        <entry key="aggregationMethod" type="xstring" value="NONE"/>
+        <entry key="aggregationMethod" type="xstring" value="COUNT"/>
         <config key="frequencyColumnsV2">
             <entry key="mode" type="xstring" value="MANUAL"/>
             <config key="patternFilter">
@@ -94,10 +94,40 @@
                 <entry key="type" type="xstring" value="table"/>
                 <entry key="table_dir_location" type="xstring" value="object_1"/>
             </config>
+            <config key="object_2">
+                <entry key="index" type="xint" value="2"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_2"/>
+            </config>
+            <config key="object_3">
+                <entry key="index" type="xint" value="3"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_3"/>
+            </config>
+            <config key="object_4">
+                <entry key="index" type="xint" value="4"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_4"/>
+            </config>
+            <config key="object_5">
+                <entry key="index" type="xint" value="5"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_5"/>
+            </config>
+            <config key="object_6">
+                <entry key="index" type="xint" value="6"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_6"/>
+            </config>
+            <config key="object_7">
+                <entry key="index" type="xint" value="7"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_7"/>
+            </config>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="877af8e0-5af3-4f34-bf65-0a34cb9c1d99"/>
+        <entry key="file_store_id" type="xstring" value="dffa8406-1741-4a20-8eb9-9d1c23951948"/>
     </config>
 </config>

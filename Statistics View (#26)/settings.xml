@@ -88,21 +88,15 @@
         <entry key="rowLabel_Internals" type="xstring" value="Rows"/>
         <entry key="showColumnCount_Internals" type="xboolean" value="true"/>
         <config key="displayedStatistics">
-            <entry key="array-size" type="xint" value="14"/>
+            <entry key="array-size" type="xint" value="8"/>
             <entry key="0" type="xstring" value="Name"/>
             <entry key="1" type="xstring" value="Type"/>
-            <entry key="2" type="xstring" value="# Missing values"/>
-            <entry key="3" type="xstring" value="# Unique values"/>
-            <entry key="4" type="xstring" value="Minimum"/>
-            <entry key="5" type="xstring" value="Maximum"/>
-            <entry key="6" type="xstring" value="25% Quantile"/>
-            <entry key="7" type="xstring" value="50% Quantile (Median)"/>
-            <entry key="8" type="xstring" value="75% Quantile"/>
-            <entry key="9" type="xstring" value="Mean"/>
-            <entry key="10" type="xstring" value="Mean Absolute Deviation"/>
-            <entry key="11" type="xstring" value="Standard Deviation"/>
-            <entry key="12" type="xstring" value="Sum"/>
-            <entry key="13" type="xstring" value="10 most common values"/>
+            <entry key="2" type="xstring" value="Minimum"/>
+            <entry key="3" type="xstring" value="Maximum"/>
+            <entry key="4" type="xstring" value="50% Quantile (Median)"/>
+            <entry key="5" type="xstring" value="Mean"/>
+            <entry key="6" type="xstring" value="Mean Absolute Deviation"/>
+            <entry key="7" type="xstring" value="Standard Deviation"/>
         </config>
     </config>
     <config key="view_variables"/>
@@ -135,6 +129,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="56023d46-749b-4800-b656-7b039991f55f"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

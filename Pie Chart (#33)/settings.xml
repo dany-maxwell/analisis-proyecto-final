@@ -10,7 +10,7 @@
         <entry key="imageFormat" type="xstring" value="SVG"/>
         <entry key="width" type="xint" value="800"/>
         <entry key="height" type="xint" value="600"/>
-        <entry key="categoryColumnV3" type="xstring" value="bot_type_label"/>
+        <entry key="categoryColumnV3" type="xstring" value="contains_links"/>
         <entry key="aggregationMethod" type="xstring" value="COUNT"/>
         <entry key="frequencyColumnV3" type="xstring" value="account_age_days"/>
     </config>
@@ -80,20 +80,10 @@
                 <entry key="type" type="xstring" value="table"/>
                 <entry key="table_dir_location" type="xstring" value="object_3"/>
             </config>
-            <config key="object_4">
-                <entry key="index" type="xint" value="4"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_4"/>
-            </config>
-            <config key="object_5">
-                <entry key="index" type="xint" value="5"/>
-                <entry key="type" type="xstring" value="table"/>
-                <entry key="table_dir_location" type="xstring" value="object_5"/>
-            </config>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1f8bef4e-6234-4468-a576-6b991755d6d1"/>
+        <entry key="file_store_id" type="xstring" value="7eb7cd92-e98d-49ab-bd84-4c950378a97c"/>
     </config>
 </config>

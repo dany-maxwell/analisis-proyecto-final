@@ -13,7 +13,7 @@
     </config>
     <config key="view">
         <config key="xAxisColumnV3">
-            <entry key="regularChoice" type="xstring" value="contains_links"/>
+            <entry key="regularChoice" type="xstring" value="reply_delay_seconds"/>
             <entry key="specialChoice_Internals" type="xstring" isnull="true" value=""/>
         </config>
         <config key="yAxisColumnV2">
@@ -25,18 +25,18 @@
             </config>
             <config key="manualFilter">
                 <config key="manuallySelected">
-                    <entry key="array-size" type="xint" value="1"/>
-                    <entry key="0" type="xstring" value="contains_links"/>
+                    <entry key="array-size" type="xint" value="2"/>
+                    <entry key="0" type="xstring" value="reply_delay_seconds"/>
+                    <entry key="1" type="xstring" value="avg_word_length"/>
                 </config>
                 <config key="manuallyDeselected">
-                    <entry key="array-size" type="xint" value="7"/>
+                    <entry key="array-size" type="xint" value="6"/>
                     <entry key="0" type="xstring" value="account_age_days"/>
                     <entry key="1" type="xstring" value="user_karma"/>
-                    <entry key="2" type="xstring" value="reply_delay_seconds"/>
-                    <entry key="3" type="xstring" value="sentiment_score"/>
-                    <entry key="4" type="xstring" value="avg_word_length"/>
-                    <entry key="5" type="xstring" value="is_bot_flag"/>
-                    <entry key="6" type="xstring" value="bot_probability"/>
+                    <entry key="2" type="xstring" value="sentiment_score"/>
+                    <entry key="3" type="xstring" value="contains_links"/>
+                    <entry key="4" type="xstring" value="is_bot_flag"/>
+                    <entry key="5" type="xstring" value="bot_probability"/>
                 </config>
                 <entry key="includeUnknownColumns" type="xboolean" value="false"/>
             </config>
@@ -105,6 +105,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1f1a15a5-6ca2-49a8-b371-f393d58339e8"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>
