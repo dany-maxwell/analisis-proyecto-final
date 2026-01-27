@@ -37,3 +37,7 @@ Aunque se espera que las cuentas más antiguas acumulen más karma, el gráfico 
 -    Los bots representan una proporción significativa del contenido que incluye enlaces, a pesar de ser minoría en cantidad total. Esto sugiere que el uso de enlaces es una estrategia clave en la actividad automatizada, ya sea para redirigir tráfico, promover contenido o simular participación legítima. El análisis de esta variable puede ser útil para detectar bots en entornos sociales como Reddit. 
 
 -    Los bots, en especial los de tipo Reprint y Engagement Farmer, tienden a usar lenguaje más positivo que los humanos. Esto puede ser una estrategia para parecer confiables, generar interacción o evitar moderación automática. El contraste con el tono ligeramente negativo de los humanos sugiere que el análisis de sentimiento puede ser una herramienta útil para diferenciar entre actividad automatizada y orgánica. 
+
+Weben React: https://analisis-proyecto-internet-muerto.onrender.com/
+Video: https://youtu.be/grP4EP5F3Ac?si=OEE_Vt_uQAPVOs6y
+Diapositivas: https://www.canva.com/design/DAG_k1dLyc4/chT-GQ_RCiQvlFfVIytr9w/edit?utm_content=DAG_k1dLyc4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
